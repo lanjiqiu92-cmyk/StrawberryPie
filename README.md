@@ -2,7 +2,13 @@
 
 > 第一次 Vibe Coding，给我家两只猫盖了一套桌面电子房子。
 
-![巴旦木和呱呱](Resources/TwoCats.png)
+[![macOS](https://img.shields.io/badge/macOS-14%2B-8A5664?style=flat-square&logo=apple&logoColor=white)](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)
+[![Swift](https://img.shields.io/badge/Swift-6-F2A65A?style=flat-square&logo=swift&logoColor=white)](Package.swift)
+[![Release](https://img.shields.io/github/v/release/lanjiqiu92-cmyk/StrawberryPie?style=flat-square&color=E991A6)](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)
+
+![草莓派的猫猫房间](docs/strawberrypie-room.jpg)
+
+**[下载最新版](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)** · macOS 14+ · 不配置 AI 也能正常使用
 
 草莓派是一个 macOS 桌面小工具，可以随手记灵感、收工作待办、放个人提醒，也可以把坏情绪丢进垃圾桶。它不是严肃的效率系统，更像一间由两只猫值班的小房间。
 
@@ -10,6 +16,8 @@
 - 乳白长毛猫 **呱呱**：负责生活，提醒你喝水、上厕所、起来走走。
 
 项目最早叫“巧克力派”，后来想到猫不能吃巧克力，于是紧急改名“草莓派”。源码中的部分 `ChocolatePie` 标识仍然保留，用于兼容旧版本的数据。
+
+> 如果巴旦木和呱呱让你觉得有点可爱，欢迎给仓库点一颗 ⭐️。它们会把这理解成今日罐罐绩效。
 
 ## 现在能做什么
 
@@ -34,6 +42,12 @@
 - macOS 14 或更高版本
 - Swift 6 工具链
 - Xcode Command Line Tools
+
+## 直接安装
+
+前往 **[Releases](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)** 下载 `草莓派-v2.1.0.zip` 或 `.dmg`。
+
+当前安装包使用个人签名，macOS 首次打开时可能会进行安全确认。若系统拦截，请右键应用并选择“打开”。
 
 ## 本地运行
 
