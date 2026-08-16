@@ -45,7 +45,7 @@
 
 ## 直接安装
 
-前往 **[Releases](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)** 下载 `草莓派-v2.1.0.zip` 或 `.dmg`。
+前往 **[Releases](https://github.com/lanjiqiu92-cmyk/StrawberryPie/releases/latest)** 下载 `StrawberryPie-v2.1.0-macOS.zip` 或 `.dmg`。
 
 当前安装包使用个人签名，macOS 首次打开时可能会进行安全确认。若系统拦截，请右键应用并选择“打开”。
 
