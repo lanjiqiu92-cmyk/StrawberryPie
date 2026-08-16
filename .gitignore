@@ -1,0 +1,21 @@
+.DS_Store
+.build/
+.build-*/
+.build15/
+.build-release/
+.build-debug/
+.build-tools/
+.module-cache/
+.swiftpm-cache/
+.swiftpm-config/
+.swiftpm-security/
+dist/
+
+# 私人纪念版素材不进入公开仓库
+Resources/FamilyFour.png
+Resources/FamilyFour-chroma.png
+Resources/RoomCat.png
+Resources/TwoCats-chroma.png
+
+# 早期视觉原型只保留在本机
+design-prototypes/
